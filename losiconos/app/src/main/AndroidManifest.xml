@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/israel"
+        android:icon="@mipmap/mamaos"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/israel_round"
+        android:roundIcon="@mipmap/mamaos_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
