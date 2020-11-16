@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
                 public void run() {
                     try {
                         adivinacion.setText("Prueba con uno mayor");
-
                     }catch (Exception e) {
                         e.printStackTrace();
                     }
